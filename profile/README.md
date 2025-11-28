@@ -1,10 +1,5 @@
-<div align="center">
+### Team. 데데고
+**안녕하세요. 판교어 번역기 개발팀 데데고입니다.**   
+데데고는 판교 전문 용어가 어려운 주니어 개발자들에게 필요한 AI 번역 서비스입니다.
 
-### 데데고
-###### 개발 전문 용어가 어려운 당신에게
-
-<a href="https://dedego.vercel.app" target="_blank">
-<img src="https://github.com/user-attachments/assets/d06c1d77-42a2-49c5-ba0d-3c858cf40351" width="400"/>
-</a>
-
-</div>
+[판교어 번역기 바로가기](https://dedego.vercel.app)    
